@@ -1,2 +1,2 @@
 # giftastic
-tcuneo.github.io/GifTastic/
+https://tcuneo.github.io/GifTastic/
